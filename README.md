@@ -37,3 +37,4 @@ Once ran, the application will reside in the system tray. From there, right clic
 ## Restrictions
 - Multitouch is not supported
 - Press & Hold for Right click does not work
+- Some applications (i.e. Chrome) process the original touch input correctly, causing them to recieve the equivalent of 2 touch inputs in consecutive order (one from the digitizer, one from InjectTouchInput)
