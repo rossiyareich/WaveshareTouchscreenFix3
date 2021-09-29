@@ -24,6 +24,7 @@ The config.json contains some values that must be first edited for the applicati
 | DigitizerSize | Resolution of the digitizer. X for width, Y for height                                                          |
 | DeviceName    | The name for the touchscreen's digitizer that shows up in  Settings > Devices > Mouse, keyboard & pen           |
 | HoldMs        | Length of time for Windows to recognize a Hold event in milliseconds (Hold functionality currently not working) |
+
 *If MapDisplay is set to false, DisplaySize and DigitizerSize will be ignored*
 
 ##Usage
