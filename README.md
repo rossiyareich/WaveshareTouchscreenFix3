@@ -27,7 +27,7 @@ The config.json contains some values that must be first edited for the applicati
 
 *If MapDisplay is set to false, DisplaySize and DigitizerSize will be ignored*
 
-##Usage
+## Usage
 Once ran, the application will reside in the system tray. From there, right clicking the icon will reveal a menu. 
 1. Version: the current version number
 2. Elevate to Admin: elevates the application to have administrator privileges, this is needed in the case that the touch inputs are directed to other applications/services with Admin rights. By default, the application starts with user privileges.
